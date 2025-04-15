@@ -1,7 +1,7 @@
 
 {
-  "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
+  "name": "BMW-QUANTUM",
+  "description": "Best WhatsApp bot developed by WHITE_HAT🤠",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
@@ -9,7 +9,8 @@
   "stack": "heroku-24",
   "env": {
     "PREFIX": {
-      "description": "Choose your prefix for your bot",
+      "description": "जय यादव 🚩 जय माधव
+      जय श्री राम 🚩",
       "value": ".",
       "required": true
     },
@@ -40,7 +41,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "BWM_QUANTUM",
       "required": false
     },
     "BOT_IMAGE": {
@@ -110,8 +111,8 @@
     },
    "ANTIDELETE_RECOVER_CONVENTION": {
       "description": "Enable anti-delete deleted to recover in conversation (yes/no)",
-      "value": "no",
-      "required": false
+      "value": "yes",
+      "required": True
     },	  
     "GROUPANTILINK": {
       "description": "Enable anti-link in groups (yes/no)",
